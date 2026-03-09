@@ -7,14 +7,14 @@
 **A full-stack restaurant management web application built with Laravel 12**  
 100% Vegetarian · Preservative Free · Authentic Maharashtrian Street Food
 
-![Full Stack](https://img.shields.io/badge/Full-Stack-333333?style=flat-square)
-![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8.3+-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-Templates-FF6B00?style=flat-square&logo=laravel&logoColor=white)
-![Admin Panel](https://img.shields.io/badge/Admin-Panel-1a1a2e?style=flat-square)
-![RESTful](https://img.shields.io/badge/RESTful-Routes-28a745?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
+[![Full Stack](https://img.shields.io/badge/Full-Stack-blue.svg)](https://img.shields.io/badge/Full-Stack-333333?style=flat-square)
+[![Laravel](https://img.shields.io/badge/Laravel-12.x-red.svg)](https://laravel.com)
+[![PHP](https://img.shields.io/badge/PHP-8.3%2B-purple.svg)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-blue.svg)](https://www.mysql.com/)
+[![Blade](https://img.shields.io/badge/Blade-Templates-orange.svg)](https://laravel.com/docs/blade)
+[![Admin Panel](https://img.shields.io/badge/Admin-Panel-darkgreen.svg)](#-admin-panel)
+[![RESTful](https://img.shields.io/badge/RESTful-Routes-green.svg)](#-route-map)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
 
