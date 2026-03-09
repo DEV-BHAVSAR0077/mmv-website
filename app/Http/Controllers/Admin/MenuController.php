@@ -36,7 +36,7 @@ class MenuController extends Controller
             'description'  => 'required|string',
             'spice_level'  => 'nullable|integer|between:1,5',
             'ingredients'  => 'nullable|string',
-            'image'        => 'nullable|image|mimes:jpg,jpeg,png,webp|max:2048',
+            'image'        => 'nullable|image|mimes:jpg,jpeg,png,webp|max:10240',
         ]);
 
         if ($request->hasFile('image')) {
@@ -66,7 +66,7 @@ class MenuController extends Controller
             'description'  => 'required|string',
             'spice_level'  => 'nullable|integer|between:1,5',
             'ingredients'  => 'nullable|string',
-            'image'        => 'nullable|image|mimes:jpg,jpeg,png,webp|max:2048',
+            'image'        => 'nullable|image|mimes:jpg,jpeg,png,webp|max:10240',
         ]);
 
         if ($request->hasFile('image')) {
