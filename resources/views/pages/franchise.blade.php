@@ -22,7 +22,7 @@
     .section-title span { color:var(--saffron); }
 
     /* Benefits */
-    .benefits-grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(250px,1fr)); gap:1.5rem; margin-top:3rem; }
+    .benefits-grid { display:grid; grid-template-columns:repeat(3, minmax(250px,1fr)); gap:1.5rem; margin-top:3rem; }
     .benefit-card { background:#fff; border-radius:18px; padding:2rem; box-shadow:0 3px 15px rgba(0,0,0,0.06); transition:all 0.3s; position:relative; overflow:hidden; }
     .benefit-card::before { content:''; position:absolute; top:0; left:0; right:0; height:4px; background:var(--saffron); }
     .benefit-card:hover { transform:translateY(-5px); box-shadow:0 12px 30px rgba(255,107,0,0.12); }

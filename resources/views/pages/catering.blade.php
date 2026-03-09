@@ -22,7 +22,7 @@
     .section-title span { color:var(--saffron); }
 
     /* What We Offer */
-    .offers-grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(220px,1fr)); gap:1.5rem; margin-top:3rem; }
+    .offers-grid { display:grid; grid-template-columns:repeat(3, minmax(220px,1fr)); gap:1.5rem; margin-top:3rem; }
     .offer-card { background:#fff; border-radius:18px; padding:2rem; text-align:center; box-shadow:0 3px 15px rgba(0,0,0,0.06); transition:all 0.3s; border-bottom:3px solid transparent; }
     .offer-card:hover { border-bottom-color:var(--saffron); transform:translateY(-5px); }
     .offer-icon { font-size:3rem; margin-bottom:1rem; }

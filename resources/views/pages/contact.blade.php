@@ -80,7 +80,7 @@
             <div class="info-icon">✉️</div>
             <div>
                 <h4>Email Us</h4>
-                <p><a href="mailto:canada@mmvmumbaiya.com">canada@mmvmumbaiya.com</a></p>
+                <p><a href="mailto:devbhavsar.ds@gmail.com">devbhavsar.ds@gmail.com</a></p>
                 <p style="margin-top:0.3rem; font-size:0.8rem; color:#aaa;">We reply within 24 hours</p>
             </div>
         </div>
@@ -88,7 +88,7 @@
             <div class="info-icon">📞</div>
             <div>
                 <h4>Call Us</h4>
-                <p><a href="tel:+1XXXXXXXXXX">+1 (XXX) XXX-XXXX</a></p>
+                <p><a href="tel:+917490070921">+91 74900 70921</a></p>
                 <p style="margin-top:0.3rem; font-size:0.8rem; color:#aaa;">Mon–Sat, 9am – 8pm</p>
             </div>
         </div>
