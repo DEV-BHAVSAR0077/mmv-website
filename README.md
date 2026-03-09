@@ -7,14 +7,14 @@
 **A full-stack restaurant management web application built with Laravel 12**  
 100% Vegetarian · Preservative Free · Authentic Maharashtrian Street Food
 
-[![Full Stack](https://img.shields.io/badge/Full-Stack-blue.svg)](https://img.shields.io/badge/Full-Stack-333333?style=flat-square)
+[![Full Stack](https://img.shields.io/badge/Full-Stack-yellow.svg)](https://img.shields.io/badge/Full-Stack-333333?style=flat-square)
 [![Laravel](https://img.shields.io/badge/Laravel-12.x-red.svg)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.3%2B-purple.svg)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-blue.svg)](https://www.mysql.com/)
-[![Blade](https://img.shields.io/badge/Blade-Templates-orange.svg)](https://laravel.com/docs/blade)
+[![Blade](https://img.shields.io/badge/Blade-Templates-darkmagenta.svg)](https://laravel.com/docs/blade)
 [![Admin Panel](https://img.shields.io/badge/Admin-Panel-darkgreen.svg)](#-admin-panel)
 [![RESTful](https://img.shields.io/badge/RESTful-Routes-green.svg)](#-route-map)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blueviolet.svg)](LICENSE)
 
 </div>
 
