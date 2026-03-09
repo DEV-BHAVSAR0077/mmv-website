@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌶️ MMV — Mumbaiya Misal Vadapav
+#  MMV — Mumbaiya Misal Vadapav
 
 ### *Dil Bole Wow!!*
 
