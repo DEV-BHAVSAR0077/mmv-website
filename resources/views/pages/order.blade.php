@@ -15,7 +15,7 @@
     .order-hero {
         background: linear-gradient(135deg, #1A0A00, #3D1A00);
         padding: 2.5rem 2rem;
-        text-align: center;
+        /* text-align: center; */
     }
     .order-hero h1 {
         font-family: 'Playfair Display', serif;
@@ -65,7 +65,7 @@
     .qty-btn {
         width: 30px; height: 30px;
         border-radius: 50%;
-        border: 2px solid var(--saffron);
+        /* border: 2px solid var(--saffron); */
         background: #fff;
         color: var(--saffron);
         font-size: 1.1rem;

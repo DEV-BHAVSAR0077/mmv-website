@@ -15,7 +15,7 @@
     @endphp
     @foreach($statuses as $key => $s)
     <a href="{{ route('admin.orders.index', $key !== 'all' ? ['status' => $key] : []) }}" style="text-decoration:none;">
-        <div class="stat-card {{ $s['color'] }}" style="{{ request('status') == $key || ($key === 'all' && !request('status')) ? 'border:2px solid var(--saffron);' : '' }}">
+        <div class="stat-card {{ $s['color'] }}" style="{{ request('status') == $key || ($key === 'all' && !request('status')) }}">
             <div class="stat-icon"><i class="{{ $s['icon'] }}"></i></div>
             <div>
                 <div class="stat-number" style="font-size:1.4rem;">{{ $order_counts[$key] ?? 0 }}</div>
